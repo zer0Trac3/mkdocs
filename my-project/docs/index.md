@@ -8,7 +8,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
-* `this weeks update` - Print testing this code and exit
+* `this weeks update 2` - Print testing this code and exit
 
 ## Project layout
 
